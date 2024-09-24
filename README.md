@@ -1,3 +1,5 @@
+## I have finished the course.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -105,3 +107,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
